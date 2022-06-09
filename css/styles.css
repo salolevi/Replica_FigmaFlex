@@ -52,7 +52,7 @@ nav li {
   border-radius: 15px;
   padding: 15px;
   background-color: #ffffff;
-  min-width: 470px;
+  min-width: 450px;
 
 }
 
@@ -141,7 +141,7 @@ footer {
   align-items: center;
 }
 
-@media screen and (max-width: 1143px){
+@media screen and (max-width: 1098px){
   .container {
     height: initial;
   }
